@@ -1,1 +1,1 @@
-This script shell directs
+a script that displays a confused smiley
